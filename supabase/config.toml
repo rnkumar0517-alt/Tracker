@@ -1,0 +1,7 @@
+project_id = "bqxietltuigrjxwfqpbo"
+
+[auth]
+enabled = true
+
+[functions.generate-workout-plan]
+verify_jwt = true
