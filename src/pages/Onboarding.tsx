@@ -140,7 +140,7 @@ const Onboarding = () => {
               </div>
               <div className="space-y-4">
                 <div className="text-center">
-                  <div className="text-4xl font-bold gradient-primary bg-clip-text text-transparent">
+                  <div className="text-4xl font-bold bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent text-primary">
                     {availableTime[0]} minutes
                   </div>
                   <p className="text-sm text-muted-foreground mt-2">Daily workout time</p>
